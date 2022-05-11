@@ -1,0 +1,21 @@
+.MemoryCard {
+    display: inline-block;
+    width: 150px;
+    height: 80px;
+    margin: 3px;
+    border-radius: 5px;
+    border: solid 3px navy;
+    cursor: pointer;
+    background: repeating-linear-gradient(
+            45deg,
+            #206dbc,
+            #206dbc 10px,
+            #265298 10px,
+            #265298 20px
+        
+    );
+}
+
+img {
+    background-image:url('https://www.digitalcrafts.com/img/digitalcrafts-logo-white-y.png');
+}
